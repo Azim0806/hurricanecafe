@@ -275,10 +275,13 @@ section {
 
 /* Blog post */
 #blog a{
-    color: #b4b4b4;
+    color: #f3ecec;
 }
 #blog a:hover{
     color: #E30910;
+}
+#blog h1{
+    color: #d7d3d3;
 }
 .blog-post img {
     width: 40%;
