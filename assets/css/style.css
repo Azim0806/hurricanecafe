@@ -37,14 +37,14 @@ h1,h2,h3,h4,h5,h6 {
     color: #595959;
 }
 nav{
-    opacity: 85%;
+    /* opacity: 85%; */
 }
 nav a{
     color: #000;
     font-weight: 500;
 }
 nav:nth-child(1) img{
-    width:250px;
+    width:100px;
 }
 a {
     color: #222;
